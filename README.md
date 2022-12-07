@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hemanth-sai33
+- 👋 Hi, I’m @Hemanth-sai
 - 👀 I’m interested in Cybersecurity, writing blogs
 - 🌱 I’m currently learning Bug bounty hunting and Penetration testing
 - 💞️ I’m looking to collaborate on open-source projects and security related projects
